@@ -1,4 +1,4 @@
-# Image segmentation API
+# Faker-API
 This is API to generate fake data using FastAPI.
 
 ## Installation
